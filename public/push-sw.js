@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 /**
- * Service Worker для Web Push (положить в /push-sw.js на сайте клиента).
+ * Service Worker для Web Push (положить в public/push-sw.js на сайте клиента).
  * Payload: { title, body, url, image_url } или custom_data/data с url/image.
  */
 (function () {
